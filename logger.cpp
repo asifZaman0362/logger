@@ -1,4 +1,4 @@
-#include "inc/logger.hpp"
+#include "logger.hpp"
 #include <sstream>
 #include <fstream>
 #include <ctime>
